@@ -11,4 +11,4 @@ Other resources can be found `here <http://www.open-psa.org/joomla1.5/index.php?
 Open PSA in Main PSA Conferences
 ================================
 
-`International Topical Meeting on Probabilistic Safety Assessment and Analysis, 2015 Sun valley, Idaho. <conferences.rst>`__.
+#. `International Topical Meeting on Probabilistic Safety Assessment and Analysis, 2015 Sun valley, Idaho. <psa-2015.rst>`__.
